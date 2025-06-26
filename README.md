@@ -101,21 +101,12 @@ NotYetBuddy/
 
 ---
 
-## How to Build
-
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/NotYetBuddy
-cd NotYetBuddy
-```
-## Open in Visual Studio
-1. Open the .sln file in Visual Studio 2019/2022
-2. Set build mode to Release x64
-3. Build and Run as Administrator for full USB access
-
 ## Developed By
 Madhav Tyagi
 Cybersecurity Researcher
+
+## Mentor
+Dr. Rakshit Tandon
 
 ## Timeline
 - Conceived at IntrusionX National Cybersecurity Hackathon

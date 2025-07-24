@@ -102,11 +102,10 @@ NotYetBuddy/
 ---
 
 ## Developed By
-Madhav Tyagi
-Cybersecurity Researcher
+@AreyMadhav
 
 ## Mentor
-Dr. Rakshit Tandon
+Dr. Rakshit Tandon (GPCSSI Mentor & Coordinator Risk Advisory)
 
 ## Timeline
 - Conceived at IntrusionX National Cybersecurity Hackathon
